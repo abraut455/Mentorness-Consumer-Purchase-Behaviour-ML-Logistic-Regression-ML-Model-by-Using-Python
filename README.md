@@ -1,0 +1,1 @@
+# Mentorness-Consumer-Purchase-Behaviour-ML-Logistic-Regression-ML-Model-by-Using-Python
